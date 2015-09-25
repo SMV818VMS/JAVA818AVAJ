@@ -3,8 +3,8 @@
  *  Written:       09/25/2015
  *  Last updated:  09/25/2015
  *
- *  Compilation:   javac ex14.java
- *  Execution:     java ex14 a b c
+ *  Compilation:   javac ex15.java
+ *  Execution:     java ex15 a b c
  *
  *  Given three integers b and c, prints true if any one of them
  *  is strictly greater than the sum of the other two and false otherwise.
