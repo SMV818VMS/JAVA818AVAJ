@@ -1,10 +1,10 @@
 /*----------------------------------------------------------------
  *  Author:        Samuel Miravet-Verde
  *  Written:       09/23/2015
- *  Last updated:  09/23/2015
+ *  Last updated:  09/25/2015
  *
- *  Compilation:   javac UseArgument.java
- *  Execution:     java UseArgument
+ *  Compilation:   javac IntOps.java
+ *  Execution:     java IntOps a b
  *  
  *  Illustrates the integer operations a + b, a * b, a / b, and a % b.
  *
