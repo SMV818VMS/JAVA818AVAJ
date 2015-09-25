@@ -6,6 +6,11 @@
  *  Compilation:   javac ex2.java
  *  Execution:     java ex2 a
  *
+ *
+ *  Write a program that uses Math.sin() and Math.cos() to check that the value 
+ *  of sin2θ + cos2θ is approximately 1 for any θ entered as a command-line argument. 
+ *  Just print the value.
+ *
  *  Given a, prints the value sin^2(a) + cos^2(a)
  *
  ******************************************************************************/
