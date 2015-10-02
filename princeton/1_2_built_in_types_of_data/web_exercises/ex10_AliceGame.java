@@ -26,7 +26,9 @@ public class ex10_AliceGame {
         //Define the a random number for Bob
         int B = 0 + (int) (Math.random() * 100);
 
-        //Bob accepts card A1 if A1>=B but swaps to A2 if A1<B.
+        //Bob accepts card A1 if A1>=B but swaps to A2 if A1<B. So if the mean 
+	// absolute difference between Alice's cards is dd then the probability 
+	// of Bob choosing the larger of the two using this strategy is 1/2 + d/200 > 1/2. 
 
         int result = 0;
         if(A1>=B) {
