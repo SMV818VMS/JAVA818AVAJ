@@ -1,2 +1,2 @@
-# java_programming
-Learning java
+# JAVA818AVAJ
+Several scripts and courses to learn Java programming
